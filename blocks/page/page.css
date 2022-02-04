@@ -4,13 +4,3 @@
   margin: 0 auto;
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
-
-.link-animation {
-  transition-property: opacity;
-  transition-duration: 1.5s;
-  transition-timing-function: ease;
-}
-
-.link-animation:hover {
-  opacity: 0.4;
-}
